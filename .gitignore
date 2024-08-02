@@ -1,0 +1,4 @@
+.vscode/
+GO_WebService.exe
+.env
+thunder-tests/
