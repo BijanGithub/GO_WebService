@@ -1,0 +1,4 @@
+// We use "sqlc" to handle sql queries, and "goose" to handle migrations 
+
+PS D:\Workbox\2024\Go\GO_WebService\sql\schema> goose postgres "postgres://username:password@Localhost:5432/dataBaseName" up
+// for sqlc, we need sqlc.yaml at root of the project
